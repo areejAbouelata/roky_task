@@ -1,0 +1,47 @@
+/** Customs **/
+.prime-bg{background-color: #367fa9 !important; color:#fff !important;}
+.mainlogo{height: 50px; display: block;}
+.sidebar-mini.sidebar-collapse   .mainlogo {display: none;}
+.main-color{color:#367fa9}
+.notificate{border-bottom: 2px solid #367fa9 }
+.note-box-icon{
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    display: block;
+    float: right;
+    height:35px;
+    width:35px;
+    text-align: center;
+    font-size: 25px;
+    line-height:35px;
+    background: rgba(0,0,0,0.2);
+}
+.note-box-content{line-height: 35px; min-height: 35px; margin-right: 40px;}
+.sidebar-menu > li {position:inherit !important;}
+.Oside {
+  padding-top:50px; 
+  right: 230px;
+  top: 0px;
+  background-color: #367fa9;
+  border-radius: 0px;
+  border: none;
+  color: #ffffff;
+  margin-top: 0px;
+  bottom: 0;
+}
+.Oside li a{padding: 15px 20px}
+.sidebar-menu, .main-sidebar .user-panel, .sidebar-menu > li.header , .slimScrollDiv , .sidebar{
+  overflow: visible!important ;
+}
+.printLogo{height: 70px; width: auto}
+.Chr{
+  border-top: 1px solid #323232;
+}
+
+.sidebar-menu > li > a {
+  padding: 8px 10px !important;
+}
+.table ul li a {color: black; }
+/** #END# Customs **/
